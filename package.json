@@ -1,0 +1,23 @@
+{
+  "name": "sibera-base-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryansh-business-work/node-js-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryansh-business-work/node-js-deploy/issues"
+  },
+  "homepage": "https://github.com/suryansh-business-work/node-js-deploy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
