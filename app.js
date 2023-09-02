@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api", (req, res) => {
-  res.send("Express on Vercel");
+  res.send("Express on Vercel 2");
 });
 
 app.listen(5000, () => {
